@@ -88,41 +88,41 @@ Domain setup, firewall rules, etc.
 ## Recent Professional Experience
 
 
-####  Freelance, Mexico - <https://wuilly.com>
+###  Freelance, Mexico - <https://wuilly.com>
 Currently<br />
 Full Stack Developer.
 
-#### Neverdie Studios, Los Angeles, CA - <https://neverdie.com>
+### Neverdie Studios, Los Angeles, CA - <https://neverdie.com>
 April 2017 - January 2019<br />
 Lead programmer in charge of creating a gaming platform that runs on the Ethererum network.
     The goals accomplished were the following:
     
-##### Database
+#### Database
 -   Data schema design and implementation.
-#####  REST API:
+####  REST API:
  -   An interface that communicates with the main database and the Ethereum blockchain.
     -   Schema design (Swagger).
     -   Programming and implementation.
 
-##### Websocket API:
+#### Websocket API:
 A websocket endpoint that provides wallet balances in real time and smart contract event logs.
 -   Programming and implementation.
 
-##### Crypto Wallet:
+#### Crypto Wallet:
 A web app where users have the ability to manage their crypto tokens.
 
 -   Frontend programming (ReactJS).
 
-##### Crypto Wallet Extension (Chrome, Firefox)
+#### Crypto Wallet Extension (Chrome, Firefox)
 I ported the crypto wallet to run as an extension for browsers. Adding the ability for Ethereum games to communicate with the wallet ala Metamask. Although this project was not released to the public I do have a demo I can show.
 
 -   Programming (ReactJS)
 
-##### Alexa Skills Development
+#### Alexa Skills Development
 Created an Alexa Skills that communicates with the REST API to fetch token prices.
 -   Programing and deployment (Javascript, AWS)
 
-##### DevOps Tasks:
+#### DevOps Tasks:
  -   Linux system setup and configuration (Debian).
     -   DB server setup and administration (Postgres).
     -   Web server setup and configuration (Nginx).
@@ -137,7 +137,7 @@ By far this has been the most exciting job I've had. Always keeping with the lat
 January 2016 - December 2016<br />
 Lead developer in charge of creating a mcommerce platform (Mobile Commerce). The main idea was to create a mobile app where local shop owners would affiliate to and show off their products.
 
-#####  Mcommerce platform development
+####  Mcommerce platform development
 
 -   Design and implementation REST API (Python).
 -   Development of mobile app for iOS (Swift).
@@ -147,7 +147,7 @@ Lead developer in charge of creating a mcommerce platform (Mobile Commerce). The
 June 2014 - November 2015<br />
 Created a custom CRM for Real Estate agents and managers.
 
-#####  CRM development for Real Estate agency.
+####  CRM development for Real Estate agency.
 
 -   Frontend coding (Javascript, HTML)
 -   Backend coding (Python, Javascript)
@@ -167,19 +167,19 @@ A very interesting job where I learned more about web security and cyber attacks
 Whenever possible like to share my knowledge, contribute to fix errors or improve the open source community. Here are some of the contributions I've made to open source projects.
 
 ### 2012:
-##### Facebook-SDK (Python)
+#### Facebook-SDK (Python)
 -   <https://github.com/mobolic/facebook-sdk/pull/11>
 
 ### 2014:
-##### angular-local-storage (Javascript)
+#### angular-local-storage (Javascript)
 -   <https://github.com/grevory/angular-local-storage/pull/129>
 
 ### 2015:
-##### Chube Bindings for Linode (Python)
+#### Chube Bindings for Linode (Python)
 -   <https://github.com/exosite/chube/pull/13>
 
 ### 2017:
-   ##### Pyramid_jwt (Python)
+   #### Pyramid_jwt (Python)
 -   <https://github.com/wichert/pyramid_jwt/pull/7>
 
 ## Social
