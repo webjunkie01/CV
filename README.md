@@ -11,30 +11,30 @@ My name is Guillermo Cruz. I'm a full stack developer who likes likes to create 
 ## Technical Skills
 #### Programming Languages:
 
--   **Python (10 years)**
+-   **Python (10 years)**<br />
 I've been developing websites, web apps and REST API's. It has been my go to language for any programming task for the last past 10 years.
--   **Javascript (7+ years)**
+-   **Javascript (7+ years)**<br />
 I started programming in JS almost at the same time I learned HTML. I've never did a full js app because of the security issues and the bad syntax of the language.
 
--   **ES5/ES6 (2 years)**
+-   **ES5/ES6 (2 years)**<br />
 I recently started creating UI interfaces along with ReactJS. Main motive because the syntax is better and functional.
 
--   **SQL (10 years)**
+-   **SQL (10 years)**<br />
 Designing database schemas, creating stored procedures, full text search and geo data.
--   **CSS3 (7 years)**
+-   **CSS3 (7 years)**<br />
 Used for styling html components and flexbox for layout presentation.
--   **HTML5 (7 years)**
+-   **HTML5 (7 years)**<br />
 The good ol' HTML.
--   **Swift (3 years)**
+-   **Swift (3 years)**<br />
 I've develop a few apps for iOS. Did not like Xcode that much.
 
 -   **Frameworks:**
 
--   **Pyramid (5+ years)**
+-   **Pyramid (5+ years)**<br />
 One of the most flexible frameworks I've known. My swiss army knife.
--   **Flask (6 months)**
+-   **Flask (6 months)**<br />
 Almost like Pyramid is very flexible. Very good for small projects.
--   **ReactJS (2 years)**
+-   **ReactJS (2 years)**<br />
 I took the plunge a few years back. I'm still concerned about the security issues and dependency hell. Only once I've executed `du -sh` on a reactjs project and don't know if I will do it again.
 
 ## Unit Testing:
@@ -58,43 +58,43 @@ I took the plunge a few years back. I'm still concerned about the security issue
 
 ## Database Servers:
 
--   ●  MySQL (2 years)
--   ●  Firebase (3 years)
--   ●  Postgres (6 years)
--   ●  MongoDB (6 months)
--   ●  Cassandra (1 month)
+-   MySQL (2 years)
+-   Firebase (3 years)
+-   Postgres (6 years)
+-   MongoDB (6 months)
+-   Cassandra (1 month)
 
 ## Dev Ops: 
 
 #### Operating Systems
 
--   **Linux (8 years)**
+-   **Linux (8 years)**<br />
 I've been deploying apps for almost 8 years. Compiling packages, upgrading, configuration, cron jobs, etc. I always try to keep it old school and deploy Debian whenever possible.
--   **Mac (5 years)**
+-   **Mac (5 years)**<br />
 I started developing on MacOS only because it was a requirement to do iOS programming. 
 
 ## Service Providers
 
--   **Linode (5 years)**
+-   **Linode (5 years)**<br />
 Manage VPS, configuring Node balancers, DNS zones and stats.
--   **Google Compute Engine (6 months)**
+-   **Google Compute Engine (6 months)**<br />
 Node management and balancing.
--   **Amazon Web Service (1 year)**
+-   **Amazon Web Service (1 year)**<br />
 Node deployment, managements and Alexa Skills deployment.
 
--   **Cloudflare (1 year)**
+-   **Cloudflare (1 year)**<br />
 Domain setup, firewall rules, etc.
 
 ## Recent Professional Experience
 
 
 ####  Freelance, Mexico - <https://wuilly.com>
-Currently
+Currently<br />
 Full Stack Developer.
 
 #### Neverdie Studios, Los Angeles, CA - <https://neverdie.com>
-April 2017 - January 2019
-    Lead programmer in charge of creating a gaming platform that runs on the Ethererum network.
+April 2017 - January 2019<br />
+Lead programmer in charge of creating a gaming platform that runs on the Ethererum network.
     The goals accomplished were the following:
     
 ##### Database
@@ -118,7 +118,7 @@ I ported the crypto wallet to run as an extension for browsers. Adding the abili
 
 -   Programming (ReactJS)
 
-##### Alexa Skills Development**
+##### Alexa Skills Development
 Created an Alexa Skills that communicates with the REST API to fetch token prices.
 -   Programing and deployment (Javascript, AWS)
 
@@ -134,27 +134,27 @@ Created an Alexa Skills that communicates with the REST API to fetch token price
 By far this has been the most exciting job I've had. Always keeping with the latest changes, upgrading to the latest package versions, learning about new protocols, moving from one code base to the other, etc. If it wasn't for this job I would still be programming in Python 2.7.
 
 ### Riviera Maya Shop, Playa del Carmen, QROO - [http://rivieramayashop.com](http://rivieramayashop.com)
-January 2016 - December 2016
+January 2016 - December 2016<br />
 Lead developer in charge of creating a mcommerce platform (Mobile Commerce). The main idea was to create a mobile app where local shop owners would affiliate to and show off their products.
 
-#####  Mcommerce platform development**
+#####  Mcommerce platform development
 
 -   Design and implementation REST API (Python).
 -   Development of mobile app for iOS (Swift).
 -   Website design(HTML5, CSS).
 
 ### Realprops, Toronto, Canadá 
-June 2014 - November 2015
+June 2014 - November 2015<br />
 Created a custom CRM for Real Estate agents and managers.
 
-#####  CRM development for Real Estate agency. **
+#####  CRM development for Real Estate agency.
 
 -   Frontend coding (Javascript, HTML)
 -   Backend coding (Python, Javascript)
 -   Devops administration
 
 ### Ilunova (MindArk), Playa del Carmen, QROO - <https://www.mindark.com>
-April 2010 -- May 2014
+April 2010 -- May 2014<br />
 I was part of the Q&A team as well as the security team for the game Entropia Universe.
 
 -   Video game testing.
