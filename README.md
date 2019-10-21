@@ -11,31 +11,36 @@ My name is Guillermo Cruz. I'm a full stack developer who likes likes to create 
 ## Technical Skills
 #### Programming Languages:
 
--   **Python (10 years)**<br />
-I've been developing websites, web apps and REST API's. It has been my go to language for any programming task for the last past 10 years.
--   **Javascript (7+ years)**<br />
-I started programming in JS almost at the same time I learned HTML. I've never did a full js app because of the security issues and the bad syntax of the language.
+-   **Python (10 years)**
 
--   **ES5/ES6 (2 years)**<br />
-I recently started creating UI interfaces along with ReactJS. Main motive because the syntax is better and functional.
+-   **Javascript (7+ years)**
 
--   **SQL (10 years)**<br />
-Designing database schemas, creating stored procedures, full text search and geo data.
--   **CSS3 (7 years)**<br />
-Used for styling html components and flexbox for layout presentation.
--   **HTML5 (7 years)**<br />
-The good ol' HTML.
--   **Swift (3 years)**<br />
-I've develop a few apps for iOS. Did not like Xcode that much.
+-   **ES5/ES6 (2 years)**
 
--   **Frameworks:**
 
--   **Pyramid (5+ years)**<br />
-One of the most flexible frameworks I've known. My swiss army knife.
--   **Flask (6 months)**<br />
-Almost like Pyramid is very flexible. Very good for small projects.
--   **ReactJS (2 years)**<br />
-I took the plunge a few years back. I'm still concerned about the security issues and dependency hell. Only once I've executed `du -sh` on a reactjs project and don't know if I will do it again.
+-   **SQL (10 years)**
+
+-   **CSS3 (7 years)**
+
+-   **HTML5 (7 years)**
+
+-   **Swift (3 years)**
+
+-   **VB Macros (3 motnhs)**
+
+-   **Apps Script (2 months)**
+
+
+
+## Frameworks:
+
+-   **Pyramid (5+ years)**
+
+-   **Flask (6 months)**
+
+-   **ReactJS (2 years)**
+
+-   **React Native (1 year)**
 
 ## Unit Testing:
 
@@ -181,6 +186,10 @@ Whenever possible like to share my knowledge, contribute to fix errors or improv
 ### 2017:
    #### Pyramid_jwt (Python)
 -   <https://github.com/wichert/pyramid_jwt/pull/7>
+
+### 2019:
+   #### react-native-image-viewer
+-   <https://github.com/antonKalinin/react-native-image-view/pull/58>
 
 ## Social
 -   **Github:** <https://github.com/webjunkie01>
