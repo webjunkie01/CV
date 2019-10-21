@@ -11,36 +11,36 @@ My name is Guillermo Cruz. I'm a full stack developer who likes likes to create 
 ## Technical Skills
 #### Programming Languages:
 
--   **Python (10 years)**
+-   Python (10 years)
 
--   **Javascript (7+ years)**
+-   Javascript (7+ years)
 
--   **ES5/ES6 (2 years)**
+-   ES5/ES6 (2 years)
 
 
--   **SQL (10 years)**
+-   SQL (10 years)
 
--   **CSS3 (7 years)**
+-   CSS3 (7 years)
 
--   **HTML5 (7 years)**
+-   HTML5 (7 years)
 
--   **Swift (3 years)**
+-   Swift (3 years)
 
--   **VB Macros (3 motnhs)**
+-   VB Macros (3 motnhs)
 
--   **Apps Script (2 months)**
+-   Apps Script (2 months)
 
 
 
 ## Frameworks:
 
--   **Pyramid (5+ years)**
+-   Pyramid (5+ years)
 
--   **Flask (6 months)**
+-   Flask (6 months)
 
--   **ReactJS (2 years)**
+-   ReactJS (2 years)
 
--   **React Native (1 year)**
+-   React Native (1 year)
 
 ## Unit Testing:
 
