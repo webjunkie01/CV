@@ -97,6 +97,34 @@ Domain setup, firewall rules, etc.
 Currently<br />
 Full Stack Developer.
 
+### Vida Suave, Mexico - <https://apps.apple.com/us/app/vida-suave/id1488174389?ls=1>
+September 2019 - November 2019<br />
+Functional prototype of a social event app and business directory.
+
+
+#### Mobile app
+For Android and iPhone where any commercial business can create a profile and manage it from the app.
+Design and programming
+
+### Docwave App, Mexico - <https://docwaveapp.com>
+May 2019 - September 2019<br />
+
+Mobile and web app lead programmer in charge of developing a web app and a mobile app to share documents between groups of people. 
+
+#### Database:
+Data schema design and implementation (Postgres).
+
+#### REST API
+An interface that communicates with the main database.
+
+#### Web App
+Administration dashboard and where users can upload and share documents.
+UI Design and programming. 
+
+#### Mobile App
+Mobile app for iPhone and Android where users can view documents that have been assigned to them.
+
+
 ### Neverdie Studios, Los Angeles, CA - <https://neverdie.com>
 April 2017 - January 2019<br />
 Lead programmer in charge of creating a gaming platform that runs on the Ethererum network.
