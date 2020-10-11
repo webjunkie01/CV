@@ -1,34 +1,35 @@
 ## Introduction
 
-My name is Guillermo Cruz. I'm a full stack developer who likes likes to create solutions to problems even if that means hacking my way in to reach the end goal.
+My name is Guillermo Cruz. I'm a full stack developer who likes likes to create and launch products.
 
 ## Personal Information
 
--    **Age:** 39 years.
--    **Location:** Playa del Carmen, Quintana Roo.
+-    **Age:** 40 years.
+-    **Location:** Ciudad Juárez, Chihuahua.
 -    **Email:** webjunkie00@gmail.com
 
 ## Technical Skills
 #### Programming Languages:
 
--   Python (10 years)
+-   Python (10+ years)
 
 -   Javascript (7+ years)
 
--   ES5/ES6 (2 years)
-
+-   ES5/ES6 (3 years)
 
 -   SQL (10 years)
 
--   CSS3 (7 years)
+-   CSS3 (8 years)
 
--   HTML5 (7 years)
+-   HTML5 (8 years)
 
 -   Swift (3 years)
 
 -   VB Macros (3 motnhs)
 
 -   Apps Script (2 months)
+
+
 
 
 
@@ -42,12 +43,14 @@ My name is Guillermo Cruz. I'm a full stack developer who likes likes to create 
 
 -   React Native (1 year)
 
+-   AngularJS (8 months)
+
 ## Unit Testing:
 
 -   Pytest
 -   Enzyme
 
-## Crypto Technologies:
+## Crypto Technologies (Deprecated):
 
 -   Web3 (2 years)
 -   Blockchain Protocol (2 years)
@@ -68,6 +71,9 @@ My name is Guillermo Cruz. I'm a full stack developer who likes likes to create 
 -   Postgres (6 years)
 -   MongoDB (6 months)
 -   Cassandra (1 month)
+-   Redshift (6 months)
+-   Athena (3 months)
+
 
 ## Dev Ops: 
 
@@ -84,8 +90,8 @@ I started developing on MacOS only because it was a requirement to do iOS progra
 Manage VPS, configuring Node balancers, DNS zones and stats.
 -   **Google Compute Engine (6 months)**<br />
 Node management and balancing.
--   **Amazon Web Service (1 year)**<br />
-Node deployment, managements and Alexa Skills deployment.
+-   **Amazon Web Services (2 years)**<br />
+EC2 deployment, secutiry policy management, Alexa Skills deployment, lambdas, etc.
 
 -   **Cloudflare (1 year)**<br />
 Domain setup, firewall rules, etc.
@@ -97,19 +103,33 @@ Domain setup, firewall rules, etc.
 Currently<br />
 Full Stack Developer.
 
+###  Zahoree, Mexico - <https://infolink-exp.com/customer-experience-analytics/>
+Currently<br />
+Data Analyst and Full Stack Developer.
+
+###  Probato, Mexico - <https://probato.app>
+Jun 2020 - October 2020<br />
+**Lead Developer**
+
+Mobile app that allows you to create educational tests for students.
+
+
 ### Vida Suave, Mexico - <https://apps.apple.com/us/app/vida-suave/id1488174389?ls=1>
 September 2019 - November 2019<br />
+**Lead Developer**
+
 Functional prototype of a social event app and business directory.
 
+Mobile app for Android and iPhone where any commercial business can create a profile and manage it from the app.
 
-#### Mobile app
-For Android and iPhone where any commercial business can create a profile and manage it from the app.
-Design and programming
+
+
 
 ### Docwave App, Mexico - <https://docwaveapp.com>
 May 2019 - September 2019<br />
+**Lead Developer**
 
-Mobile and web app lead programmer in charge of developing a web app and a mobile app to share documents between groups of people. 
+Mobile and web app that allows you to share documents between groups of people in a private and secure way. 
 
 #### Database:
 Data schema design and implementation (Postgres).
@@ -127,8 +147,11 @@ Mobile app for iPhone and Android where users can view documents that have been 
 
 ### Neverdie Studios, Los Angeles, CA - <https://neverdie.com>
 April 2017 - January 2019<br />
-Lead programmer in charge of creating a gaming platform that runs on the Ethererum network.
-    The goals accomplished were the following:
+**Lead Developer**
+
+Develop a gaming platform that runs on the Ethererum network.
+
+The goals accomplished were the following:
     
 #### Database
 -   Data schema design and implementation.
@@ -156,7 +179,7 @@ Created an Alexa Skills that communicates with the REST API to fetch token price
 -   Programing and deployment (Javascript, AWS)
 
 #### DevOps Tasks:
- -   Linux system setup and configuration (Debian).
+-   Linux system setup and configuration (Debian).
     -   DB server setup and administration (Postgres).
     -   Web server setup and configuration (Nginx).
     -   Blockchain node setup and administration (Geth, Parity).
@@ -168,7 +191,9 @@ By far this has been the most exciting job I've had. Always keeping with the lat
 
 ### Riviera Maya Shop, Playa del Carmen, QROO - [http://rivieramayashop.com](http://rivieramayashop.com)
 January 2016 - December 2016<br />
-Lead developer in charge of creating a mcommerce platform (Mobile Commerce). The main idea was to create a mobile app where local shop owners would affiliate to and show off their products.
+**Lead Developer**
+
+Mobile (Mcommerce) solution where local shop owners would affiliate to and show off their products.
 
 ####  Mcommerce platform development
 
@@ -212,12 +237,16 @@ Whenever possible like to share my knowledge, contribute to fix errors or improv
 -   <https://github.com/exosite/chube/pull/13>
 
 ### 2017:
-   #### Pyramid_jwt (Python)
+#### Pyramid_jwt (Python)
 -   <https://github.com/wichert/pyramid_jwt/pull/7>
 
 ### 2019:
-   #### react-native-image-viewer
+#### react-native-image-viewer
 -   <https://github.com/antonKalinin/react-native-image-view/pull/58>
+
+### 2020:
+#### react-native-beautiful-video-recorder
+- <https://github.com/phuochau/react-native-beautiful-video-recorder/pull/24>
 
 ## Social
 -   **Github:** <https://github.com/webjunkie01>
