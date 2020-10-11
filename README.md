@@ -29,6 +29,8 @@ My name is Guillermo Cruz. I'm a full stack developer who likes likes to create 
 
 -   Apps Script (2 months)
 
+-   Ruby (8 months)
+
 
 
 
@@ -44,6 +46,8 @@ My name is Guillermo Cruz. I'm a full stack developer who likes likes to create 
 -   React Native (1 year)
 
 -   AngularJS (8 months)
+
+-   Rails(8 months)
 
 ## Unit Testing:
 
@@ -73,23 +77,27 @@ My name is Guillermo Cruz. I'm a full stack developer who likes likes to create 
 -   Cassandra (1 month)
 -   Redshift (6 months)
 -   Athena (3 months)
+-   MongoDB (8 months)
 
 
 ## Dev Ops: 
 
 #### Operating Systems
 
--   **Linux (8 years)**<br />
+-   **Linux (8 years)**
 I've been deploying apps for almost 8 years. Compiling packages, upgrading, configuration, cron jobs, etc. I always try to keep it old school and deploy Debian whenever possible.
--   **Mac (5 years)**<br />
+
+-   **Mac (5 years)**
 I started developing on MacOS only because it was a requirement to do iOS programming. 
 
 ## Service Providers
 
 -   **Linode (5 years)**<br />
 Manage VPS, configuring Node balancers, DNS zones and stats.
+
 -   **Google Compute Engine (6 months)**<br />
 Node management and balancing.
+
 -   **Amazon Web Services (2 years)**<br />
 EC2 deployment, secutiry policy management, Alexa Skills deployment, lambdas, etc.
 
@@ -101,11 +109,14 @@ Domain setup, firewall rules, etc.
 
 ###  Freelance, Mexico - <https://wuilly.com>
 Currently<br />
-Full Stack Developer.
+**Full Stack Developer**
 
 ###  Zahoree, Mexico - <https://infolink-exp.com/customer-experience-analytics/>
 Currently<br />
-Data Analyst and Full Stack Developer.
+
+**Data Analyst and Full Stack Developer**
+
+A business intelligence platform for fortune 500 companies.
 
 ###  Probato, Mexico - <https://probato.app>
 Jun 2020 - October 2020<br />
@@ -249,7 +260,10 @@ Whenever possible like to share my knowledge, contribute to fix errors or improv
 - <https://github.com/phuochau/react-native-beautiful-video-recorder/pull/24>
 
 ## Social
--   **Github:** <https://github.com/webjunkie01>
--   **Stackoverflow:** <https://stackoverflow.com/users/558873/webjunkie>
--   **Blog:** <https://wuilly.com>
--   **Linkedin:** [www.linkedin.com/in/webjunkie](http://www.linkedin.com/in/webjunkie)
+**Github:** <https://github.com/webjunkie01><br />
+
+**Stackoverflow:** <https://stackoverflow.com/users/558873/webjunkie><br />
+
+**Blog:** <https://wuilly.com><br />
+
+**Linkedin:** [www.linkedin.com/in/webjunkie](http://www.linkedin.com/in/webjunkie)<br />
